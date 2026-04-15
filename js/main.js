@@ -1,6 +1,6 @@
 // Check Login
 if (!localStorage.getItem("isLoggedIn")) {
-    window.location.href = "login.html";
+    window.location.href = "index.html";
 }
 
 // Show User Info
